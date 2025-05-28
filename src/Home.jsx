@@ -9,7 +9,7 @@ const Home = () => {
       <h2>Welcome to PixMixer</h2>
       <p>Upload and apply effects to your images with ease.</p>
       <button className="primary" onClick={() => navigate("/pixelator")}>
-        Start Pixelating!
+        Apply Effects!
       </button>
     </div>
   );
