@@ -1,3 +1,5 @@
+An app where Users can upload and apply effects to their images with ease.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
