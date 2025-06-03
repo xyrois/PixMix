@@ -6,9 +6,9 @@ const AboutModal = ({ isOpen, onClose }) => {
   return (
     <div className="modal-overlay" onClick={onClose}>
       <div className="modal" onClick={(e) => e.stopPropagation()}>
-        <h2>About Pixelator</h2>
+        <h2>About PixMixer</h2>
         <p>This tool lets you pixelate any image using canvas magic. </p>
-        <button onClick={onClose}>Close</button>
+        <button className=""onClick={onClose}>Close</button>
       </div>
     </div>
   );
