@@ -488,7 +488,7 @@ const ImageEffects = () => {
                 <option value="contrast">Contrast</option>
                 <option value="saturation">Saturation</option>
                 <option value="hue">Hue Shift</option>
-                <option value="blur">Blur (WIP)</option>
+                <option value="blur">Blur</option>
                 <option value="noise">Noise</option>
                 <option value="threshold">Threshold</option>
                 <option value="edge">Edge Detection</option>
